@@ -383,6 +383,7 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1475390835
 GameObject:
   m_ObjectHideFlags: 0
@@ -486,6 +487,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 1d8003f (un cuadrado)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -497,6 +500,8 @@ SceneRoots:
 =======
   - {fileID: 34377708}
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Get-ramed
+=======
 =======
 >>>>>>> parent of 1d8003f (un cuadrado)
